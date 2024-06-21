@@ -32,3 +32,24 @@ The game can be downloaded on mobile devices.
 - Combat: Choose plants to defeat bad guys; Bees, butterflies, earthworms, snails, rabbits, squirrels; 
 - Interactive components
 The game will have a section for interactive components, including but not limited to leaderboard, visiting other’s map/home/backyard; Pop up events (bees, animals…)
+
+
+### Analysis
+
+#### High-Level Requirements
+
+#### Functional Requirements
+
+### Design
+
+#### Tech Stack
+
+##### Client-Side:
+- IOS App (Swift)
+- UIKit or SwiftUI for the user interface
+- ARkit for augmented reality features
+- Core Location for GPS
+##### Server-Side:
+- Node.js for backend framework
+- MongoDB for storing plant data, user information, and location tags
+- TensorFlow for on-device plant classification.
