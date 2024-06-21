@@ -26,19 +26,9 @@ Ideally, the game is incorporated with class materials at high schools in the lo
 The game can be downloaded on mobile devices.
 
 #### Features:
-- Language selection
-The app will support multiple languages for students with different language/cultural backgrounds. 
-- Augmented Reality
-- Players are able to walk around with the app open with a virtual map.
-- Players are able to open the camera feature and scan certain plants to get information on target plants. 
-Similar to “‘See like a bee” feature in 
-- Collections
-Players are able to collect plants virtually, and plant them on the virtual map/home/backyard.
-Players will try to defend their neighborhood with the plants collected against toxins, viruses, or other natural enemies. 
-Daily logins get fertilizers and stuff.
-Choose plants to defeat bad guys
-Bees, butterflies, earthworms, snails, rabbits, squirrels. 
-Interactive components
-The game will have a section for interactive components, including but not limited to leaderboard, visiting other’s map/home/backyard. 
-Pop up events (bees, animals…)
- … 
+- Language selection: The app will support multiple languages for students with different language/cultural backgrounds. 
+- Augmented Reality: Players are able to walk around with the app open with a virtual map; Players are able to open the camera feature and scan certain plants to get information on target plants; Similar to “‘See like a bee” feature
+- Collections: Players are able to collect plants virtually, and plant them on the virtual map/home/backyard; Players will try to defend their neighborhood with the plants collected against toxins, viruses, or other natural enemies; Daily logins get fertilizers and stuff.
+- Combat: Choose plants to defeat bad guys; Bees, butterflies, earthworms, snails, rabbits, squirrels; 
+- Interactive components
+The game will have a section for interactive components, including but not limited to leaderboard, visiting other’s map/home/backyard; Pop up events (bees, animals…)
