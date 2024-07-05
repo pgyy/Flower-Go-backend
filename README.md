@@ -41,6 +41,8 @@ The game will have a section for interactive components, including but not limit
 #### Functional Requirements
 
 ### Design
+- Figma for the design pages
+- Notion for PM
 
 #### Tech Stack
 
