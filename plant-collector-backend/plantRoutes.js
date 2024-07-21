@@ -1,5 +1,5 @@
 const express = require('express');
-const Plant = require('./models/Plant'); // Ensure you have the Plant model properly exported and imported
+const Plant = require('./models/Plant');
 const router = express.Router();
 
 // Get All Plants
@@ -29,9 +29,9 @@ router.get('/plants/:id', async (req, res) => {
 
 // Add New Plant
 router.post('/plants', async (req, res) => {
-    const { plantName, scientificName, description, imageURL, locationTags } = req.body;
+    const { plantName, scientificName, description, imageURL, stats, basicInfo, locationTags } = req.body;
     try {
-        const newPlant = new Plant({ plantName, scientificName, description, imageURL, locationTags });
+        const newPlant = new Plant({ plantName, scientificName, description, imageURL, stats, basicInfo, locationTags });
         await newPlant.save();
         res.json({ success: true, message: 'Plant added successfully', plant: newPlant });
     } catch (error) {
